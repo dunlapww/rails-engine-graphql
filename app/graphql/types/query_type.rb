@@ -30,5 +30,7 @@ module Types
     def all_transactions
       Transaction.all
     end
+
+    #need to add filters for first 10etc.
   end
 end
