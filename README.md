@@ -7,7 +7,7 @@ This repo is a fairly simple implementation of GraphQL.  It allows users to quer
 3. open your browser and navigate to localhost:3000/graphiql
 
 # Demo
-[! GraphQL Demo](readme_images/graphql_demo.gif)
+![GraphQL Demo](readme_images/graphql_demo.gif)
 
 
 
